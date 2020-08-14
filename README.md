@@ -1,4 +1,6 @@
-# markdown-previewer-vue
+# Markdown Previewer (Vue app)
+
+![Example](src/assets/example.png)
 
 ## Project setup
 ```
